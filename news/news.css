@@ -1,0 +1,36 @@
+nav {
+  background-color: black;
+  color: rgb(245, 239, 239);
+  font-size: 50px;
+  font-family: Lobster, cursive;
+}
+
+body {
+  font-family: Roboto, sans-serif;
+  background-color: #f1f2fa;
+  color: #000000;
+  margin: 0 auto;
+  font-size: 17px;
+}
+span {
+  color: red;
+  font-style: italic;
+}
+
+main {
+  width: 60%;
+  margin: 0 auto;
+}
+
+h1,
+h2 {
+  font-family: Oswald, sans-serif;
+  font-weight: 100;
+  color: rgb(222, 35, 32);
+}
+img {
+  width: 780px;
+}
+p {
+  width: 780px;
+}
